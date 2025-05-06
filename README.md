@@ -1,1 +1,1 @@
-# ipdm-oto-2025---FERREIRA-GOMEZ-ANTHONY-DARIO-_ejercicio-3-a
+La aplicación Learn Together proporciona un tutorial introductorio sobre Jetpack Compose, el toolkit moderno para construir interfaces de usuario en Android. Este tutorial se enfoca en crear una interfaz simple utilizando funciones declarativas de Compose.
